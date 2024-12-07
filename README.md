@@ -1,0 +1,2 @@
+# magicirs
+irs using magic
